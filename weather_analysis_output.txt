@@ -1,0 +1,396 @@
+Weather Data Analysis (Date: "2024-11-17 07:07:43")
+-------------------------------------------------
+Average Temperature: 300.05 K | 26.90 �C | 80.42 �F
+Average Humidity: 26.90 %
+Average Visibility: 80.42 m
+-------------------------------------------------
+Weather Data Analysis (Date: 11/17/2024 7:07)
+-------------------------------------------------
+Average Temperature: 300.05 K | 26.90 �C | 80.42 �F
+Average Humidity: 26.90 %
+Average Visibility: 80.42 m
+-------------------------------------------------
+Weather Data Analysis (Date: 11/17/2024 7:07)
+-------------------------------------------------
+Average Temperature: 300.05 K | 26.90 �C | 80.42 �F
+Average Humidity: 26.90 %
+Average Visibility: 0.00 m
+-------------------------------------------------
+Weather Data Analysis (Date: 11/17/2024 7:07)
+-------------------------------------------------
+Average Temperature: 400.03 K | 126.88 �C | 260.39 �F
+Average Humidity: 26.90 %
+Average Visibility: 0.00 m
+-------------------------------------------------
+Weather Data Analysis (Date: 11/17/2024 7:07)
+-------------------------------------------------
+Average Temperature: 400.03 K | 126.88 �C | 260.39 �F
+Average Humidity: 19.93 %
+Average Visibility: 0.00 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-17 07:54:41")
+-------------------------------------------------
+Average Temperature: 299.05 K | 25.90 �C | 78.62 �F
+Average Humidity: 25.90 %
+Average Visibility: 78.62 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-17 07:57:56")
+-------------------------------------------------
+Average Temperature: 299.05 K | 25.90 �C | 78.62 �F
+Average Humidity: 25.90 %
+Average Visibility: 78.62 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-17 08:01:45")
+-------------------------------------------------
+Average Temperature: 299.05 K | 25.90 �C | 78.62 �F
+Average Humidity: 25.90 %
+Average Visibility: 78.62 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-17 08:01:45")
+-------------------------------------------------
+Average Temperature: 299.05 K | 25.90 �C | 78.62 �F
+Average Humidity: 25.90 %
+Average Visibility: 78.62 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-17 08:21:21")
+-------------------------------------------------
+Average Temperature: 298.05 K | 24.90 �C | 76.82 �F
+Average Humidity: 24.90 %
+Average Visibility: 76.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-17 08:37:00")
+-------------------------------------------------
+Average Temperature: 298.05 K | 24.90 �C | 76.82 �F
+Average Humidity: 24.90 %
+Average Visibility: 76.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-17 19:31:06")
+-------------------------------------------------
+Average Temperature: 294.05 K | 20.90 �C | 69.62 �F
+Average Humidity: 20.90 %
+Average Visibility: 69.62 m
+-------------------------------------------------
+Weather Data Analysis (Date: 11/17/2024 19:31)
+-------------------------------------------------
+Average Temperature: 294.05 K | 20.90 �C | 69.62 �F
+Average Humidity: 35.00 %
+Average Visibility: 69.62 m
+-------------------------------------------------
+Weather Data Analysis (Date: 11/17/2024 19:31)
+-------------------------------------------------
+Average Temperature: 294.05 K | 20.90 �C | 69.62 �F
+Average Humidity: 35.00 %
+Average Visibility: 69.62 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-17 19:41:48")
+-------------------------------------------------
+Average Temperature: 294.05 K | 20.90 �C | 69.62 �F
+Average Humidity: 20.90 %
+Average Visibility: 69.62 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-17 19:49:15")
+-------------------------------------------------
+Average Temperature: 296.05 K | 22.90 �C | 73.22 �F
+Average Humidity: 22.90 %
+Average Visibility: 73.22 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-17 19:49:15")
+-------------------------------------------------
+Average Temperature: 296.05 K | 22.90 �C | 73.22 �F
+Average Humidity: 22.90 %
+Average Visibility: 73.22 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-17 19:54:19")
+-------------------------------------------------
+Average Temperature: 296.05 K | 22.90 �C | 73.22 �F
+Average Humidity: 22.90 %
+Average Visibility: 73.22 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-17 19:54:19")
+-------------------------------------------------
+Average Temperature: 296.05 K | 22.90 �C | 73.22 �F
+Average Humidity: 22.90 %
+Average Visibility: 73.22 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-17 20:15:11")
+-------------------------------------------------
+Average Temperature: 298.05 K | 24.90 �C | 76.82 �F
+Average Humidity: 24.90 %
+Average Visibility: 76.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-17 20:17:55")
+-------------------------------------------------
+Average Temperature: 298.05 K | 24.90 �C | 76.82 �F
+Average Humidity: 24.90 %
+Average Visibility: 76.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-17 20:19:25")
+-------------------------------------------------
+Average Temperature: 298.05 K | 24.90 �C | 76.82 �F
+Average Humidity: 24.90 %
+Average Visibility: 76.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-17 20:22:46")
+-------------------------------------------------
+Average Temperature: 298.05 K | 24.90 �C | 76.82 �F
+Average Humidity: 24.90 %
+Average Visibility: 76.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-17 20:25:00")
+-------------------------------------------------
+Average Temperature: 298.05 K | 24.90 �C | 76.82 �F
+Average Humidity: 24.90 %
+Average Visibility: 76.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-17 20:27:33")
+-------------------------------------------------
+Average Temperature: 298.78 K | 25.63 �C | 78.13 �F
+Average Humidity: 25.63 %
+Average Visibility: 78.13 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-17 21:43:29")
+-------------------------------------------------
+Average Temperature: 302.05 K | 28.90 �C | 84.02 �F
+Average Humidity: 28.90 %
+Average Visibility: 84.02 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-17 21:57:31")
+-------------------------------------------------
+Average Temperature: 302.05 K | 28.90 �C | 84.02 �F
+Average Humidity: 28.90 %
+Average Visibility: 84.02 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 11:10:16")
+-------------------------------------------------
+Average Temperature: 303.05 K | 29.90 �C | 85.82 �F
+Average Humidity: 29.90 %
+Average Visibility: 85.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 11:28:55")
+-------------------------------------------------
+Average Temperature: 303.05 K | 29.90 �C | 85.82 �F
+Average Humidity: 29.90 %
+Average Visibility: 85.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 11:28:55")
+-------------------------------------------------
+Average Temperature: 303.05 K | 29.90 �C | 85.82 �F
+Average Humidity: 29.90 %
+Average Visibility: 85.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 11:28:55")
+-------------------------------------------------
+Average Temperature: 303.05 K | 29.90 �C | 85.82 �F
+Average Humidity: 29.90 %
+Average Visibility: 85.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 11:28:55")
+-------------------------------------------------
+Average Temperature: 303.05 K | 29.90 �C | 85.82 �F
+Average Humidity: 29.90 %
+Average Visibility: 85.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 11:28:55")
+-------------------------------------------------
+Average Temperature: 303.05 K | 29.90 �C | 85.82 �F
+Average Humidity: 29.90 %
+Average Visibility: 85.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 11:28:55")
+-------------------------------------------------
+Average Temperature: 303.05 K | 29.90 �C | 85.82 �F
+Average Humidity: 29.90 %
+Average Visibility: 85.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 11:28:55")
+-------------------------------------------------
+Average Temperature: 303.05 K | 29.90 �C | 85.82 �F
+Average Humidity: 29.90 %
+Average Visibility: 85.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 11:28:55")
+-------------------------------------------------
+Average Temperature: 303.05 K | 29.90 �C | 85.82 �F
+Average Humidity: 29.90 %
+Average Visibility: 85.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 11:28:55")
+-------------------------------------------------
+Average Temperature: 303.05 K | 29.90 �C | 85.82 �F
+Average Humidity: 29.90 %
+Average Visibility: 85.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 11:28:55")
+-------------------------------------------------
+Average Temperature: 303.05 K | 29.90 �C | 85.82 �F
+Average Humidity: 29.90 %
+Average Visibility: 85.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 11:28:55")
+-------------------------------------------------
+Average Temperature: 303.05 K | 29.90 �C | 85.82 �F
+Average Humidity: 29.90 %
+Average Visibility: 85.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 11:28:55")
+-------------------------------------------------
+Average Temperature: 303.05 K | 29.90 �C | 85.82 �F
+Average Humidity: 29.90 %
+Average Visibility: 85.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 11:28:55")
+-------------------------------------------------
+Average Temperature: 303.05 K | 29.90 �C | 85.82 �F
+Average Humidity: 29.90 %
+Average Visibility: 85.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 11:28:55")
+-------------------------------------------------
+Average Temperature: 303.05 K | 29.90 �C | 85.82 �F
+Average Humidity: 29.90 %
+Average Visibility: 85.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 11:28:55")
+-------------------------------------------------
+Average Temperature: 303.05 K | 29.90 �C | 85.82 �F
+Average Humidity: 29.90 %
+Average Visibility: 85.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 11:28:55")
+-------------------------------------------------
+Average Temperature: 303.05 K | 29.90 �C | 85.82 �F
+Average Humidity: 29.90 %
+Average Visibility: 85.82 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 14:29:44")
+-------------------------------------------------
+Average Temperature: 305.05 K | 31.90 �C | 89.42 �F
+Average Humidity: 31.90 %
+Average Visibility: 89.42 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 14:34:37")
+-------------------------------------------------
+Average Temperature: 305.41 K | 32.26 �C | 90.07 �F
+Average Humidity: 32.26 %
+Average Visibility: 90.07 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 14:44:46")
+-------------------------------------------------
+Average Temperature: 306.05 K | 32.90 �C | 91.22 �F
+Average Humidity: 32.90 %
+Average Visibility: 91.22 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 14:49:29")
+-------------------------------------------------
+Average Temperature: 306.05 K | 32.90 �C | 91.22 �F
+Average Humidity: 32.90 %
+Average Visibility: 91.22 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 14:49:29")
+-------------------------------------------------
+Average Temperature: 306.05 K | 32.90 �C | 91.22 �F
+Average Humidity: 32.90 %
+Average Visibility: 91.22 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 14:49:29")
+-------------------------------------------------
+Average Temperature: 306.05 K | 32.90 �C | 91.22 �F
+Average Humidity: 32.90 %
+Average Visibility: 91.22 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 14:49:29")
+-------------------------------------------------
+Average Temperature: 306.05 K | 32.90 �C | 91.22 �F
+Average Humidity: 32.90 %
+Average Visibility: 91.22 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 14:49:29")
+-------------------------------------------------
+Average Temperature: 306.05 K | 32.90 �C | 91.22 �F
+Average Humidity: 32.90 %
+Average Visibility: 91.22 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 14:49:29")
+-------------------------------------------------
+Average Temperature: 306.05 K | 32.90 �C | 91.22 �F
+Average Humidity: 32.90 %
+Average Visibility: 91.22 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 15:01:24")
+-------------------------------------------------
+Average Temperature: 306.05 K | 32.90 �C | 91.22 �F
+Average Humidity: 32.90 %
+Average Visibility: 91.22 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 15:01:24")
+-------------------------------------------------
+Average Temperature: 306.05 K | 32.90 �C | 91.22 �F
+Average Humidity: 32.90 %
+Average Visibility: 91.22 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-18 15:01:24")
+-------------------------------------------------
+Average Temperature: 306.05 K | 32.90 �C | 91.22 �F
+Average Humidity: 32.90 %
+Average Visibility: 91.22 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-19 23:16:19")
+-------------------------------------------------
+Average Temperature: 295.05 K | 21.90 �C | 71.42 �F
+Average Humidity: 21.90 %
+Average Visibility: 71.42 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-20 09:39:08")
+-------------------------------------------------
+Average Temperature: 299.05 K | 25.90 �C | 78.62 �F
+Average Humidity: 25.90 %
+Average Visibility: 78.62 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-20 09:42:20")
+-------------------------------------------------
+Average Temperature: 299.05 K | 25.90 �C | 78.62 �F
+Average Humidity: 25.90 %
+Average Visibility: 78.62 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-20 10:57:31")
+-------------------------------------------------
+Average Temperature: 301.05 K | 27.90 �C | 82.22 �F
+Average Humidity: 27.90 %
+Average Visibility: 82.22 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-20 11:00:41")
+-------------------------------------------------
+Average Temperature: 301.05 K | 27.90 �C | 82.22 �F
+Average Humidity: 27.90 %
+Average Visibility: 82.22 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-20 11:22:08")
+-------------------------------------------------
+Average Temperature: 300.05 K | 26.90 �C | 80.42 �F
+Average Humidity: 26.90 %
+Average Visibility: 80.42 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-20 11:27:23")
+-------------------------------------------------
+Average Temperature: 300.05 K | 26.90 �C | 80.42 �F
+Average Humidity: 26.90 %
+Average Visibility: 80.42 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-20 12:48:58")
+-------------------------------------------------
+Average Temperature: 304.05 K | 30.90 �C | 87.62 �F
+Average Humidity: 30.90 %
+Average Visibility: 87.62 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-20 12:58:55")
+-------------------------------------------------
+Average Temperature: 304.05 K | 30.90 �C | 87.62 �F
+Average Humidity: 30.90 %
+Average Visibility: 87.62 m
+-------------------------------------------------
+Weather Data Analysis (Date: "2024-11-21 23:34:39")
+-------------------------------------------------
+Average Temperature: 297.05 K | 23.90 �C | 75.02 �F
+Average Humidity: 23.90 %
+Average Visibility: 75.02 m
+-------------------------------------------------

@@ -1,0 +1,34 @@
+pass: qzja boen ztyh brqk
+SCHEDULER2.SH is our main file. Everything is linked to this file respectively.
+
+to run the files 12 times:
+./scheduler2.sh 
+
+MAKE SURE THE FILE IS IN EXECUTABLE MODE.
+
+To get the processing output: 
+
+ps -ef | grep scheduler.sh
+
+It will give smth like this;
+rida        1462    1434  0 02:40 pts/0    00:00:00 /bin/bash /home/rida/CEP/scheduler.sh
+rida        1558    1434  0 02:43 pts/0    00:00:00 grep --color=auto scheduler.sh
+
+1462 is the PID.
+
+TO STOP THE FILE RUNNING 12 TIMES, WE'LL WRITE IN TERMINAL;
+
+Kill 1462 
+OR
+Kill -9 1462 
+
+cat fetch_and_parse.log (This file will be visible after 12 itr)
+To see the iterations running. 
+
+THE LOG FILE ALSO HAVE THE CONDITION TO CHECK IF THE AVG IS PRINTED IN THE weather_analysis_output.txt FILE. 
+To check any error, we can either go to fetch_and_parse_error.log or fetch_and_parse.log. 
+
+
+Upon running scheduler2 everytime, the temp.csv files get empty and will only save the data from the last 12 rows of weather_parsed.csv.
+
+THE FINAL AVERAGE WEATHER ANALYSIS WILL BE PRINTED IN THE SCREEN AS WELL and Alert email will also be sent to the recipient user (ridanafeesqasmi@gmail.com).

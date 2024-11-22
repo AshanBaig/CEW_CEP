@@ -1,0 +1,172 @@
+/home/rida/CEP/scheduler2.sh: line 17: unexpected EOF while looking for matching `"'
+
+Weather Data Analysis (Date: "2024-11-17 07:57:56")
+-------------------------------------------------
+Average Temperature: 299.05 K | 25.90 ï¿½C | 78.62 ï¿½F
+Average Humidity: 25.90 %
+Average Visibility: 78.62 m
+-------------------------------------------------
+
+Analysis results saved to weather_analysis_output.txt
+
+Weather Data Analysis (Date: "2024-11-17 08:01:45")
+-------------------------------------------------
+Average Temperature: 299.05 K | 25.90 ï¿½C | 78.62 ï¿½F
+Average Humidity: 25.90 %
+Average Visibility: 78.62 m
+-------------------------------------------------
+
+Analysis results saved to weather_analysis_output.txt
+Avg calculated
+
+Weather Data Analysis (Date: "2024-11-17 08:21:21")
+-------------------------------------------------
+Average Temperature: 298.05 K | 24.90 ï¿½C | 76.82 ï¿½F
+Average Humidity: 24.90 %
+Average Visibility: 76.82 m
+-------------------------------------------------
+
+Analysis results saved to weather_analysis_output.txt
+Avg calculated
+
+Weather Data Analysis (Date: "2024-11-17 08:37:00")
+-------------------------------------------------
+Average Temperature: 298.05 K | 24.90 ï¿½C | 76.82 ï¿½F
+Average Humidity: 24.90 %
+Average Visibility: 76.82 m
+-------------------------------------------------
+
+Analysis results saved to weather_analysis_output.txt
+Avg calculated
+
+Weather Data Analysis (Date: "2024-11-17 19:31:06")
+-------------------------------------------------
+Average Temperature: 294.05 K | 20.90 ï¿½C | 69.62 ï¿½F
+Average Humidity: 20.90 %
+Average Visibility: 69.62 m
+-------------------------------------------------
+
+Analysis results saved to weather_analysis_output.txt
+Avg calculated
+
+Weather Data Analysis (Date: "2024-11-17 19:41:48")
+-------------------------------------------------
+Average Temperature: 294.05 K | 20.90 ï¿½C | 69.62 ï¿½F
+Average Humidity: 20.90 %
+Average Visibility: 69.62 m
+-------------------------------------------------
+
+Analysis results saved to weather_analysis_output.txt
+Avg calculated
+
+Weather Data Analysis (Date: "2024-11-17 19:49:15")
+-------------------------------------------------
+Average Temperature: 296.05 K | 22.90 ï¿½C | 73.22 ï¿½F
+Average Humidity: 22.90 %
+Average Visibility: 73.22 m
+-------------------------------------------------
+
+Analysis results saved to weather_analysis_output.txt
+[1;31m===================================================[0m
+[1;31mWEATHER ALERT: HIGH TEMPERATURE[0m
+   ALERT: [1;33mAverage Temperature: 37.15 °C exceeds threshold![0m
+   TIP: [1;32mStay hydrated and avoid direct sunlight![0m
+[1;31m===================================================[0m
+
+[1;31m===================================================[0m
+[1;31mWEATHER ALERT: LOW VISIBILITY[0m
+   ALERT: [1;33mAverage Visibility: 61.29 m exceeds threshold![0m
+   TIP: [1;32mDrive carefully and use fog lights if necessary![0m
+[1;31m===================================================[0m
+
+Avg calculated
+
+Weather Data Analysis (Date: "2024-11-17 19:54:19")
+-------------------------------------------------
+Average Temperature: 296.05 K | 22.90 ï¿½C | 73.22 ï¿½F
+Average Humidity: 22.90 %
+Average Visibility: 73.22 m
+-------------------------------------------------
+
+Analysis results saved to weather_analysis_output.txt
+[1;31m===================================================[0m
+[1;31mWEATHER ALERT: HIGH TEMPERATURE[0m
+   ALERT: [1;33mAverage Temperature: 35.56 ï¿½C exceeds threshold![0m
+   TIP: [1;32mStay hydrated and avoid direct sunlight![0m
+[1;31m===================================================[0m
+
+[1;31m===================================================[0m
+[1;31mWEATHER ALERT: HIGH HUMIDITY[0m
+   ALERT: [1;33mAverage Humidity: 25.63 % exceeds threshold![0m
+   TIP: [1;32mUse a dehumidifier or stay indoors![0m
+[1;31m===================================================[0m
+
+[1;31m===================================================[0m
+[1;31mWEATHER ALERT: LOW VISIBILITY[0m
+   ALERT: [1;33mAverage Visibility: 62.62 m exceeds threshold![0m
+   TIP: [1;32mDrive carefully and use fog lights if necessary![0m
+[1;31m===================================================[0m
+
+Avg calculated
+
+Weather Data Analysis (Date: "2024-11-17 20:15:11")
+-------------------------------------------------
+Average Temperature: 298.05 K | 24.90 ï¿½C | 76.82 ï¿½F
+Average Humidity: 24.90 %
+Average Visibility: 76.82 m
+-------------------------------------------------
+
+Analysis results saved to weather_analysis_output.txt
+[1;31m===================================================[0m
+[1;31mWEATHER ALERT: HIGH TEMPERATURE[0m
+   ALERT: [1;33mAverage Temperature: 34.40 ï¿½C exceeds threshold![0m
+   TIP: [1;32mStay hydrated and avoid direct sunlight![0m
+[1;31m===================================================[0m
+
+[1;31m===================================================[0m
+[1;31mWEATHER ALERT: HIGH HUMIDITY[0m
+   ALERT: [1;33mAverage Humidity: 25.46 % exceeds threshold![0m
+   TIP: [1;32mUse a dehumidifier or stay indoors![0m
+[1;31m===================================================[0m
+
+[1;31m===================================================[0m
+[1;31mWEATHER ALERT: LOW VISIBILITY[0m
+   ALERT: [1;33mAverage Visibility: 63.86 m exceeds threshold![0m
+   TIP: [1;32mDrive carefully and use fog lights if necessary![0m
+[1;31m===================================================[0m
+
+Avg calculated
+Generating alerts...
+./scheduler2.sh: line 29: /home/rida/CEP/alert_manager.sh: No such file or directory
+ERROR!
+
+Weather Data Analysis (Date: "2024-11-17 20:17:55")
+-------------------------------------------------
+Average Temperature: 298.05 K | 24.90 ï¿½C | 76.82 ï¿½F
+Average Humidity: 24.90 %
+Average Visibility: 76.82 m
+-------------------------------------------------
+
+Analysis results saved to weather_analysis_output.txt
+[1;31m===================================================[0m
+[1;31mWEATHER ALERT: HIGH TEMPERATURE[0m
+   ALERT: [1;33mAverage Temperature: 33.95 ï¿½C exceeds threshold![0m
+   TIP: [1;32mStay hydrated and avoid direct sunlight![0m
+[1;31m===================================================[0m
+
+[1;31m===================================================[0m
+[1;31mWEATHER ALERT: HIGH HUMIDITY[0m
+   ALERT: [1;33mAverage Humidity: 25.43 % exceeds threshold![0m
+   TIP: [1;32mUse a dehumidifier or stay indoors![0m
+[1;31m===================================================[0m
+
+[1;31m===================================================[0m
+[1;31mWEATHER ALERT: LOW VISIBILITY[0m
+   ALERT: [1;33mAverage Visibility: 64.47 m exceeds threshold![0m
+   TIP: [1;32mDrive carefully and use fog lights if necessary![0m
+[1;31m===================================================[0m
+
+Avg calculated
+Generating alerts...
+./scheduler2.sh: line 29: /home/rida/CEP/alert_manager.sh: No such file or directory
+ERROR!
